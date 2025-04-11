@@ -1,7 +1,7 @@
 {
     "name": "Cosmo-Launcher",
     "preductname": "Cosmo Launcher",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Launcher Mincraft pour le serveur Cosmo",
     "main": "src/app.js",
     "author": {
@@ -9,7 +9,7 @@
         "email": "contact@GalaDerad98.ovh",
         "url": "https://github.com/matou4580-dev"
     },
-    "url": "",
+    "url": "http://cosmo.galaderad98.ovh",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
