@@ -30,7 +30,7 @@ class Splash {
 
     async startAnimation() {
         let splashes = [
-            { "message": "Seulement 151 Pokémon ? N", "author": "GalaDerad98" },
+            { "message": "Seulement 151 Pokémon ?", "author": "GalaDerad98" },
             { "message": "La Team Rocket décollerait !", "author": "GalaDerad98" },
             { "message": "Où est l'infirmière Joëlle ?", "author": "GalaDerad98" }
         ];
